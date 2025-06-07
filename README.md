@@ -1,3 +1,3 @@
 # Test EPAP
 
-Versión corregida para deploy en Vercel.
+Versión 100% funcional para Vercel.
