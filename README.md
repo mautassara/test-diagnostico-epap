@@ -1,2 +1,3 @@
-# Test de Diagnóstico Vibracional EPAP®
-Proyecto React completo con 72 preguntas.
+# Test EPAP
+
+Proyecto React corregido para despliegue en Vercel.
