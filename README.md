@@ -1,3 +1,3 @@
 # Test EPAP
 
-Proyecto React corregido para despliegue en Vercel.
+Versión corregida para deploy en Vercel.
